@@ -1,0 +1,9 @@
+Yapay zeka (AI), bir zamanlar insan müdahalesi gerektiren ve artık bilgisayar tarafından gerçekleştirilebilen birçok karmaşık ve gelişmekte olan teknolojiyi kapsar.
+Genel olarak yapay zeka, çok çeşitli problem çözme ve yaratıcılık becerileri gösteren, insan olmayan bir program, model veya bilgisayardır.
+Bilgisayarlar, geçmişte bilgileri anlamak ve önermek için kullanılan gelişmiş işlevleri yerine getirebilir.
+Üretken yapay zeka sayesinde bilgisayarlar yeni içerikler bile oluşturabilir.
+Yapay zekâ, bilgisayarların veri üzerinden öğrenmesini ve karar vermesini sağlayan bir alandır.
+
+Temel kavramlar arasında makine öğrenmesi, derin öğrenme ve doğal dil işleme yer alır.
+
+Makine öğrenmesi, örneklerden öğrenme üzerine kuruludur. Model, veri üzerinde eğitilir ve yeni veriye göre tahmin yapar. Yapay zekâ uygulamaları, sınıflandırma, tahmin, metin üretimi ve görsel tanıma gibi alanlarda kullanılır.

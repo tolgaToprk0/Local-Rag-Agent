@@ -1,0 +1,3 @@
+Algoritma , bir problemi çözmek veya bir görevi tamamlamak için adım adım talimatlar kümesidir.
+ Bilgisayar biliminde algoritmalar , bir bilgisayara veri gibi girdileri nasıl işleyeceğini ve karar, tahmin veya sıralı liste gibi bir çıktı üreteceğini söyler.
+ Bazı algoritmalar basit ve sabittir, bazıları ise makine öğrenmesinde olduğu gibi verilerden kalıplar "öğrenir".
