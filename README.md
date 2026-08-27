@@ -43,7 +43,7 @@ python -m src.main index
 
 Foundry Local'ın OpenAI API'sine bağlanır. Embedding ve chat model çağrılarını yapar. </think> etiketini temizler.
 
-Not: OpenAI Python istemcisi bulut OpenAI API'si için kullanılmıyor. Foundry Local'ın yerel API'sine http://127.0.0.1:64435/v1 adresinden bağlanmak için kullanılıyor.
+Not: OpenAI Python istemcisi bulut OpenAI API'si için kullanılmıyor. Foundry Local'ın local OpenAI API'sine bağlanmak için kullanılıyor.
 
 #Kullanılan Araçlar
 
