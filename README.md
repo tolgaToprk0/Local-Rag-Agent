@@ -56,7 +56,7 @@ Not: OpenAI Python istemcisi bulut OpenAI API'si için kullanılmıyor. Foundry 
 * pypdf
 * OpenAI Python client
 
-* SOURCES:
+#SOURCES:
 
 * https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-your-first-local-rag-application-with-foundry-local/4501968
 
